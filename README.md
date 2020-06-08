@@ -4,6 +4,8 @@ This is a Python script which:
 1. Connects a Wiimote and a EduKit 3 robot (https://camjam.me/?page_id=1035)
 2. Lets player drives the EduKit 3 robot in Mario Kart style
 
+The code is based on a project in raspberrypi-spy.co.uk. Project URL: http://www.raspberrypi-spy.co.uk/?p=1101.
+
 ## Requirements ##
 - Tested on:
     - Raspberry Pi 4
